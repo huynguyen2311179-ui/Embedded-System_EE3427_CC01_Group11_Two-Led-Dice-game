@@ -1,0 +1,9 @@
+../Core/Src/main.c:37:5:main	27
+../Core/Src/main.c:112:6:Display_All_Dice	3
+../Core/Src/main.c:128:13:MX_GPIO_Init	1
+../Core/Src/main.c:157:6:SystemClock_Config	1
+../Core/Src/main.c:174:6:Lcd_Write	1
+../Core/Src/main.c:180:6:Lcd_Init	1
+../Core/Src/main.c:186:6:Lcd_Print	5
+../Core/Src/main.c:191:6:Play_End_Sound	3
+../Core/Src/main.c:195:6:Custom_Delay	2
