@@ -45,5 +45,5 @@ After Player 2 finishes their turn, the system decides the winner based on these
 
 * At the end of the match, the system triggers a specific audio tone to announce the outcome: Player 1 wins, Player 2 wins, or a draw.
 * The "**ROLL"** button is completely disabled.
-* To play again, you must press the **"RESET"** button to clear the LCD and LEDs, starting a new game.
+* To play again, you must press the **"RESET"** button twice to clear the LCD and LEDs, starting a new game.
 
