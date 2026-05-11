@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=GND Pin=M2-3
+Removed Member From Class: ClassName=SYSTEM Member=M2
+Removed Member From Class: ClassName=SYSTEM Member=R20
+Added Pin To Net: NetName=NetLED1_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED8-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED12-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED13-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED14-2
+Added Pin To Net: NetName=BUTT_1 Pin=U1-13
+Added Pin To Net: NetName=BUTT_2 Pin=U1-14
+Added Pin To Net: NetName=USB_D_P Pin=U1-33
+Added Pin To Net: NetName=BZZ Pin=R1-2
+Added Pin To Net: NetName=BZZ Pin=U1-20
+Added Net: Name=BZZ
+Added Pin To Net: NetName=I2C_SCL Pin=I1-17
+Added Pin To Net: NetName=I2C_SCL Pin=I1-18
+Added Pin To Net: NetName=I2C_SCL Pin=U1-42
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=U1-43
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=LED_1 Pin=R4-2
+Added Pin To Net: NetName=LED_1 Pin=R7-2
+Added Pin To Net: NetName=LED_1 Pin=U1-46
+Added Net: Name=LED_1
+Added Pin To Net: NetName=LED_2 Pin=R5-2
+Added Pin To Net: NetName=LED_2 Pin=R8-2
+Added Pin To Net: NetName=LED_2 Pin=U1-21
+Added Net: Name=LED_2
+Added Pin To Net: NetName=LED_3 Pin=R6-2
+Added Pin To Net: NetName=LED_3 Pin=R9-2
+Added Pin To Net: NetName=LED_3 Pin=U1-22
+Added Net: Name=LED_3
+Added Pin To Net: NetName=LED_4 Pin=R10-2
+Added Pin To Net: NetName=LED_4 Pin=R11-2
+Added Pin To Net: NetName=LED_4 Pin=U1-25
+Added Net: Name=LED_4
+Added Pin To Net: NetName=LED_5 Pin=R13-1
+Added Pin To Net: NetName=LED_5 Pin=R16-1
+Added Pin To Net: NetName=LED_5 Pin=U1-26
+Added Net: Name=LED_5
+Added Pin To Net: NetName=LED_6 Pin=R14-1
+Added Pin To Net: NetName=LED_6 Pin=R17-1
+Added Pin To Net: NetName=LED_6 Pin=U1-27
+Added Net: Name=LED_6
+Added Pin To Net: NetName=LED_7 Pin=R15-1
+Added Pin To Net: NetName=LED_7 Pin=R18-1
+Added Pin To Net: NetName=LED_7 Pin=U1-28
+Added Net: Name=LED_7
+Added Pin To Net: NetName=MOS Pin=R19-2
+Added Pin To Net: NetName=MOS Pin=U1-18
+Added Net: Name=MOS
+Added Pin To Net: NetName=USB_D_N Pin=J1-2
+Added Pin To Net: NetName=USB_D_N Pin=U1-32
+Added Net: Name=USB_D_N
